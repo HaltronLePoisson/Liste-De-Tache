@@ -1,0 +1,84 @@
+html {
+    background: #000022;
+    margin: 2rem 0;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 0;
+    font-family: 'Press Start 2P', sans-serif;
+    color: #FCB42A;
+  }
+
+form {
+    display: inline-block;
+    background: #000022;
+
+}
+
+.blackman {
+
+    display: inline-block;
+    background: #FCB42A;
+    width: 100px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius : 10px;
+    border: 2px solid #ececec;
+    position: fixed;
+    font-family: 'Press Start 2P', sans-serif;
+    top: 125px;
+    right: 450px;
+
+
+}
+.form-control {
+
+    display: inline-block;
+    background: #FCB42A;
+    width: 400px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius : 10px;
+    border: 2px solid #ececec;
+    position: fixed;
+    font-family: 'Press Start 2P', sans-serif;
+    top: 130px;
+    right: 700px;
+
+}
+.form-group {
+   
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: 'Press Start 2P', sans-serif;
+    color: #FCB42A;
+    font-size: 50px 
+}
+.form-caca {
+    
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: 'Press Start 2P', sans-serif;
+    color: #FCB42A;
+    font-size: 40px;
+    position: fixed;
+    top: 300px;
+    right: 450px
+}
+
+.form-pipi {
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: 'Press Start 2P', sans-serif;
+    color: #FCB42A;
+    font-size: 10px;    
+    position: fixed;
+    top: 680px;
+    right: 1290px
+}
+
+#todoList {
+    color: #ff0000;
+    margin: 0 auto;
+    width: 500px;
+    top: 900px;
+}
